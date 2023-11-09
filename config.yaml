@@ -1,0 +1,8 @@
+port: 8000
+masterClientWSS: wss://eth-goerli.g.alchemy.com/v2/barNHxwKcvdxJuDoKlbor5qx6mhT2C_O
+childClientsRPC:
+  - https://goerli.drpc.org
+  - https://rpc.ankr.com/eth_goerli
+  - https://endpoints.omniatech.io/v1/eth/goerli/public
+  - https://rpc.goerli.eth.gateway.fm
+contractToSync: 0x097546CfBbdA51e0DB6Dc6413734E3bACcF20A38
